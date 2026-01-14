@@ -33,4 +33,4 @@ The best way to test the performance is to try the live platform:
 [Start Random Chat](https://videochatcouple.com)
 
 ---
-*Developed by [TuoUsername]*
+*Developed by [Grigoli Carmelo Alessandro]*
